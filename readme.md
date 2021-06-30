@@ -16,6 +16,8 @@
 
 🌸 Discord: [Server](https://discord.gg/GaczkwfgV9)
 
+## Made By
+- ANIKET MADE THIS BOT FOR US - [GITHUB](https://github.com/aniket091/) 
 
 ## Installation
 
