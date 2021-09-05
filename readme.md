@@ -27,3 +27,5 @@
  - Once all the things are done, run `node index.js`
 
 
+## Support
+<a href="https://www.buymeacoffee.com/memerapi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28.7" width="121.8"></a>
