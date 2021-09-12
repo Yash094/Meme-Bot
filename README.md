@@ -1,7 +1,7 @@
 # Meme Bot
 <p align="center"><img align="center" style="width:0.5px" src="https://cdn.discordapp.com/attachments/818900078077018162/859725695587581983/meme_bot.png"/></p><br/>
 
-<a href="https://www.buymeacoffee.com/memerapi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28.7" width="121.8"></a>
+<a align="center" href="https://www.buymeacoffee.com/memerapi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="180"></a>
    <a href="https://discord.gg/invite/emD44ZJaSA"><img src="https://img.shields.io/discord/664505860327997461?color=5865F2&label=Meme%20Development" alt="Meme Dev"></a>
 </p>
 
