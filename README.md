@@ -21,7 +21,7 @@
 🌸 Discord: [Server](https://discord.gg/GaczkwfgV9)
 
 ## Collbarators 
-- [GITHUB](https://github.com/aniket091/) 
+- [Aniket091](https://github.com/aniket091/) 
 
 ## **📚 Installation**
 
