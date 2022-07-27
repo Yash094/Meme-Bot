@@ -1,4 +1,4 @@
-# Meme Bot
+
 <p align="center"><img align="center" style="width:0.5px" src="https://cdn.discordapp.com/attachments/818900078077018162/859725695587581983/meme_bot.png"/></p><br/>
 </p> 
 <p align="center"><a href="https://discord.gg/invite/emD44ZJaSA"><img src="https://img.shields.io/discord/664505860327997461?color=5865F2&label=Meme%20Development" alt="Meme Dev"></a>
