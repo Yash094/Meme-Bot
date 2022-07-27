@@ -1,13 +1,10 @@
 # Meme Bot
 <p align="center"><img align="center" style="width:0.5px" src="https://cdn.discordapp.com/attachments/818900078077018162/859725695587581983/meme_bot.png"/></p><br/>
-<p align="center">
-<a align="center" href="https://www.buymeacoffee.com/memerapi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="180"></a>
-</p>
 </p> 
 <p align="center"><a href="https://discord.gg/invite/emD44ZJaSA"><img src="https://img.shields.io/discord/664505860327997461?color=5865F2&label=Meme%20Development" alt="Meme Dev"></a>
 </p>
 
-> **This is an example bot made for Memer API :)**
+> **This is an Example Bot made for Memer API :)**
 
 
 ## **🌌 Memer API**
@@ -23,8 +20,8 @@
 
 🌸 Discord: [Server](https://discord.gg/GaczkwfgV9)
 
-## Made By
-- ANIKET MADE THIS BOT FOR US - [GITHUB](https://github.com/aniket091/) 
+## Collbarators 
+- [GITHUB](https://github.com/aniket091/) 
 
 ## **📚 Installation**
 
